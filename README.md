@@ -16,7 +16,7 @@ The project leverages advanced machine learning techniques to develop a model th
 The final combined model achieved an accuracy of 90.8% and demonstrated high stability in identifying extremist tweets, with a recall of 83% for positive cases in real-world data tests.
 
 ## Acknowledgments
-This project was supervised by Dr. Eli Alshaikh from the Department of Middle Eastern Studies, Bar-Ilan University. Special thanks to Dr. Roni Ramon and Dr. Ariel Roth for their invaluable support and guidance throughout the project.
+This project was supervised by Dr. Eli Alshaikh from the Department of Middle Eastern Studies, Bar-Ilan University. Special thanks to Dr. Roni Ramon for their invaluable support and guidance throughout the project.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
