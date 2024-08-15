@@ -12,11 +12,13 @@ The project leverages advanced machine learning techniques to develop a model th
 - **Ensemble Model**: The final model is a combination of the best-performing individual models using a soft voting ensemble method. This approach provided the highest accuracy and reliability in identifying extremist tweets.
 - **Data Visualization**: The project includes visualizations that help in understanding the distribution and characteristics of the data, such as word frequency distributions and class separation.
 
-## Installation
+## Results
+The final combined model achieved an accuracy of 90.8% and demonstrated high stability in identifying extremist tweets, with a recall of 83% for positive cases in real-world data tests.
 
-To set up the project environment, follow these steps:
+## Acknowledgments
+This project was supervised by Dr. Eli Alshaikh from the Department of Middle Eastern Studies, Bar-Ilan University. Special thanks to Dr. Roni Ramon and Dr. Ariel Roth for their invaluable support and guidance throughout the project.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repo_name.git
-   cd repo_name
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
