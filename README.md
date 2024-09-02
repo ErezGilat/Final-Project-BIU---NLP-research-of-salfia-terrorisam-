@@ -1,6 +1,6 @@
 # NLP Model for Identifying Salafi Jihadist Tweets in England
 
-This repository contains the code and data for the final project titled **"Developing a Natural Language Processing Model to Identify Tweets Associated with the Salafi Jihadist Movement in England."** The project was conducted as part of the requirements for a B.Sc degree and is aimed at enhancing the ability to identify and monitor extremist content on social media platforms.
+This repository contains the code and data for the final project titled **"Developing a Natural Language Processing Model to Identify Tweets Associated with the Salafi  Movement in England."** The project was conducted as part of the requirements for a B.Sc degree and is aimed at enhancing the ability to identify and monitor extremist content on social media platforms.
 
 ## Project Overview
 
